@@ -1,4 +1,4 @@
-import { Hero } from './../scripts/components/hero/hero';
+import { Hero } from './../scripts/classes/hero/hero';
 
 export var HEROES: Hero[] = [
   {id: 11, name: 'Mr. Nice'},
